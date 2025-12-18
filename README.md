@@ -16,9 +16,10 @@ Assist Infone – Infogérance & Solutions IT
 
 ## 🌐 Site Web : https://www.assist-infone.fr/
 
-Assist Infone accompagne les entreprises et particuliers dans la gestion et la sécurisation de leurs systèmes informatiques depuis 2005. Notre objectif : simplifier, sécuriser et moderniser votre infrastructure IT.
+Assist Infone accompagne l’évolution de votre système d’information en fonction de votre activité.
+Notre démarche approfondie vous offre des solutions adaptées, pérennes et de qualité.
 
-📍 Siège social : 5, rue de Rennes – 35850 Gévezé, France
+📍 5, rue de Rennes – 35850 Gévezé, France
 
 📞 Tél : 02.99.66.48.02
 
@@ -44,7 +45,7 @@ Assist Infone accompagne les entreprises et particuliers dans la gestion et la s
 
 # 📎 Liens utiles
 
-🌐 Site officiel : assist-infone.fr
+🌐 Site officiel : https://www.assist-infone.fr/
 
 📞 Contact : contact@assist-infone.fr
 
