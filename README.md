@@ -1,5 +1,3 @@
-Assist Infone – Infogérance & Solutions IT
-
 <table align="center">
   <tr>
     <td>
